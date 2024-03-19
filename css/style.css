@@ -1,3 +1,27 @@
-h1{
-    color: blue;
+/* 
+    Los atributos se añadirán a toda etiqueta "h1" 
+*/
+h1 {
+    color: blueviolet;
+    font-size: 44px;
 }
+
+/* #id
+    Los atributos se añadirán al id=unico 
+*/
+#unico{
+    color: blue;
+    font-size: 44px;
+}
+
+/* .nombreClase
+    Los atributos se añadirán a la clase=azul 
+*/
+.azul{
+    color: red;
+}
+
+.imagenInicio{
+    color: aquamarine;
+}
+
