@@ -1,0 +1,40 @@
+
+/* "margin" se utiliza para márgen externo */
+h1{
+    /* Se le asigna color a la caja(fondo) de "1": */
+    background: #008DDA;
+
+    /* Los márgenes pueden modificarse individualmente: */
+    /* 
+        margin-top: 100px;
+        margin-right: 100px;
+        margin-bottom: 100px;
+        margin-left: 100px; 
+        
+    */
+    
+    /* Se modifican todos los margenes por igual: */
+    /* margin: 100px; */
+
+    /* 
+        El primer valor modifica los margenes superior e inferior
+        El segundo valor modifica los margenes lateral izquierdo y derecho
+    */
+    /* margin: 200px 100px; */
+
+    /*
+        El primer valor modifica el margen superior
+        El segundo valor modifica el margen lateral derecho
+        El tercer valor modifica el margen inferior
+        El cuarto valor modifica el margen lateral izquierdo
+    */
+    /* margin: 100px 10px 20px 50px; */
+}
+
+
+/* "padding" se utiliza para el margen interno */
+p{
+    background: #ACE2E1;
+
+    padding: 100px;
+}

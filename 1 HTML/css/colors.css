@@ -1,0 +1,14 @@
+/* Los colores pueden añadirse escribiendose */
+.color{
+    color: blue;
+}
+
+/* Por medio de rgb */
+.verde{
+    color: rgb(60, 177, 71);
+}
+
+/* Y de manera hexagesimal */
+.celeste{
+    color: #00CED1;
+}
